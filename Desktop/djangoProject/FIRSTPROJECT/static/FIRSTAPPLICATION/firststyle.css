@@ -1,0 +1,9 @@
+h1 {
+    color: blue;
+    background: coral;
+    font-size: 64px;
+}
+
+body {
+    background: green url('images/firstimage.png')
+}
